@@ -1,0 +1,32 @@
+.TitlePage{
+	text-align: center;
+	font-size: 24pt;
+}
+
+.Headfoot{background-color: 163940; color: white;}
+
+
+.Navigation{left: 1000px; border-collapse: collapse;}
+.Navigation li{padding : 2px; list-style : none; display : inline;}
+
+.InfoTable {border: 2px solid black; border-collapse: collapse; padding: 3px; float:right; margin-right: 500px	;}
+.InfoTable td{text-align: center; border:2px solid black;}
+
+
+
+body{background-color: 4FCCE5; /*text-align: center;*/ color:black;}
+
+h2{text-align: center;}
+
+footer{ clear: both; position: absolute; z-index: 10; height: 3em; margin-top: -3em; margin-left: 800px}
+
+#james {border-radius:500px;border:none;}
+#images{padding: 5px;}
+a:link {color: 19FFEC;}
+a:visited {color: 19FFEC;}
+hr{border-color:2B1B2E;}
+
+.text{text-align: center; max-width:750px; }
+.qualifications { line-height:50px; width:620px; float:left; padding:5px; list-style-type: none;}
+.qualifications2 { line-height:50px; width:620px; float:right; padding:5px; list-style-type: none;}
+.lists { line-height:50px; width:620px; padding:5px; list-style-type: none;}
