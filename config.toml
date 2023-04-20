@@ -1,0 +1,41 @@
+baseURL = 'https://ysbryd.dev/'
+languageCode = 'en-gb'
+defaultContentLangauge = "en-gb"
+title = 'Ysbryd - My Home'
+theme = "hugo-blog-awesome"
+copyright = " "
+enableEmoji = true
+
+
+[menu]
+  [[menu.main]] 
+    # The page reference (pageRef) is useful for menu highlighting
+    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
+    pageRef="/"
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    pageRef="posts"
+    name = 'Posts'
+    url = '/posts/'
+    weight = 20
+  [[menu.main]]
+    pageRef="about"
+    name = 'About'
+    url = '/about/'
+    weight = 30
+
+[params]
+  sitename = "Ysbryd - A home for my digital spirit"
+  defaultColor = "dark" # set default color mode: dark or light
+  description = "Just another spirit of the internet, carving out a space for myself"
+  mainSections = ['posts']
+
+[params.author]
+  avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
+  # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
+  intro = "A Home for my Digital Spirit"
+  name = "Ysbryd"
+  description = "My name is Ysbryd, I'm a Non-binary Trans Woman from Wales and I want to make the world a little less cyberpunk and a little more solarpunk!"
+
