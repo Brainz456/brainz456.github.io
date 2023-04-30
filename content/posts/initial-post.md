@@ -1,7 +1,6 @@
 ---
 title: "Initial Posts"
 date: 2023-04-19T21:27:24+01:00
-draft: true
 ---
 ## A Brief Introduction
 
@@ -17,3 +16,7 @@ Ever since I was young, I've been drawn to the aesthetics of the early days of t
 I've worked in the cyber security industry for several years now and have spent some of this time within academia.
 I have mostly specialised in the industrial sector, protecting services such as critical national infrastructure, and healthcare systems.
 While some of that may appear across this blog, it will be sparse as I aim to focus on my personal creative efforts.
+
+I am currently reading a few different books on operating system design, language design and implementation, and also a short crash course book on the UXN programming language (more to come in another blog post shortly!). I'll probably write a few pieces on these in the next coming days/weeks. 
+
+
