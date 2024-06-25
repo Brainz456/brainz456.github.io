@@ -1,6 +1,6 @@
 ---
 title: About
-description: 'Hugo, the world''s fastest framework for building websites'
+description: 'Just another spirit of the internet, carving out a space for myself'
 date: '2024-06-26'
 author: Ysbryd 
 ---
