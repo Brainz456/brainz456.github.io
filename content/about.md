@@ -1,8 +1,8 @@
 ---
-title: About
+title: 'About'
+date: 2024-06-26T00:58:54+01:00
+draft: false
 description: 'Just another spirit of the internet, carving out a space for myself'
-date: '2024-06-26'
-author: Ysbryd 
 ---
 
 Hi! If you're reading this then welcome to this digital collection of thoughts and ideas that I am attemtping to capture!
